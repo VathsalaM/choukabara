@@ -1,0 +1,47 @@
+.normal {
+	background-color: pink;
+	border-color: green;
+}
+
+.Red {
+  background-color: red;
+}
+.Green {
+  background-color: green;
+}
+.highlightGreen {
+  background-color: #ace600;
+}
+.highlightRed {
+  background-color: #ff9999;
+}
+.sphere {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  position: relative;
+  display: inline-block;
+}
+
+.dice {
+	height: 60px;
+	width: 2px;
+}
+
+table {
+  table-layout: fixed;
+    height:400px;
+    width: 400px;
+}
+
+td{
+  background-color: gray;
+  table-layout: fixed;
+}
+.safe {
+  background-color: black;
+}
+
+.home {
+  
+}
